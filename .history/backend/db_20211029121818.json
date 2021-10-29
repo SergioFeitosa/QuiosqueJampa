@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "id?": 1,
+            "name": "user1",
+            "password": "user1"
+        }
+    ],
+    "enterprises": [
+        {
+            "id?": 1,
+            "name": "enterprise1"
+        }
+    ],
+    "products": [
+        {
+            "id?": 1
+            "name": "product1"
+        }
+    ]
+    
+}
